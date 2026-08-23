@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=ISABELLY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20in%20progress%20✦&descAlignY=62&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=Isabelly&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20in%20progress%20✦&descAlignY=62&descSize=17"/>
 
 <br>
 
-### ♡ hi, I'm Isabelly!
-
-**18 years old • Internet Technology student • web developer in progress**
+**web developer in progress**
 
 <br>
 
@@ -63,8 +61,6 @@ I've been part of a
 
 <br>
 
-✦ 
-
 </td>
 
 </tr>
@@ -100,17 +96,6 @@ I've been part of a
 
 ---
 
-<div align="center">
-
-## ✦ github
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isaa000&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaa000&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFB6C1&text_color=FFFFFF"/>
-
-</div>
 
 <br>
 
