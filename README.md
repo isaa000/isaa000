@@ -28,15 +28,13 @@
 
 ## ✦ Sobre mim
 
-Oi! Eu sou a **Isabelly**, tenho 18 anos e estou concluindo o curso de **Tecnologia para Internet**.
+Oi! Eu sou a **Isabelly**
 
-Sou apaixonada por tecnologia e estou explorando o desenvolvimento web, tentando transformar cada novo conhecimento em algo que eu possa construir.
 
 ```text
 ╭──────────────────────────────╮
 │                              │
 │  ✦ aprendendo                │
-│  ✦ experimentando            │
 │  ✦ criando                   │
 │  ✦ evoluindo                 │
 │                              │
