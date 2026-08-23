@@ -12,8 +12,6 @@
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
@@ -35,8 +33,6 @@
 <img src="https://img.shields.io/badge/Figma-FFB6C1?style=flat-square&logo=figma&logoColor=0D0D0D"/>
 
 </div>
-
-<br>
 
 ---
 
@@ -100,8 +96,6 @@ I've been part of a
 <br>
 
 <div align="center">
-
-### ♡
 
 ✦ always learning ✦
 
