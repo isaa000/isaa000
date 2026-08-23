@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20,24&text=ISABELLY&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web%20developer%20in%20progress%20%E2%9C%A6&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20,24&text=Isabelly&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20web%20em%20forma%C3%A7%C3%A3o%20%E2%9C%A6&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=650&lines=hello%2C+I'm+Isabelly+%E2%99%A1;Tecnologia+para+Internet+%F0%9F%92%BB;learning+%E2%80%A2+creating+%E2%80%A2+evolving+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=650&lines=oi%2C+eu+sou+a+Isabelly+%E2%99%A1;estudante+de+Tecnologia+para+Internet+%F0%9F%92%BB;aprendendo+%E2%80%A2+criando+%E2%80%A2+evoluindo+%E2%9C%A8" />
 
 </div>
 
@@ -10,19 +10,20 @@
 
 <table align="center">
 <tr>
+
 <td width="55%" valign="top">
 
-## ♡ about me
+## ♡ Sobre mim
 
 Oi! Eu sou a **Isabelly**, tenho 18 anos e estou concluindo o curso de **Tecnologia para Internet**.
 
 Estou começando minha jornada no desenvolvimento web e gosto de explorar novas tecnologias, criar interfaces e transformar ideias em projetos.
 
 ```text
-✦ 18 years old
+✦ 18 anos
 ✦ Tecnologia para Internet
-✦ web development
-✦ always learning
+✦ Desenvolvimento Web
+✦ Sempre aprendendo
 ```
 
 </td>
@@ -33,9 +34,10 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <br><br>
 
-`♡ coding & creating ♡`
+`♡ código • criatividade • aprendizado ♡`
 
 </td>
+
 </tr>
 </table>
 
@@ -45,11 +47,11 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <div align="center">
 
-## ✦ MY TECHNOLOGIES ✦
+## ✦ TECNOLOGIAS ✦
 
 <br>
 
-### FRONT-END
+### 🎨 FRONT-END
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
 &nbsp;&nbsp;
@@ -65,7 +67,7 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <br><br>
 
-### BACK-END
+### ⚙️ BACK-END
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
 
@@ -75,7 +77,7 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <br><br>
 
-### DATABASE
+### 🗄️ BANCO DE DADOS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
 
@@ -85,7 +87,7 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <br><br>
 
-### DESIGN
+### 🎨 DESIGN
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" title="Figma"/>
 
@@ -104,15 +106,15 @@ Estou começando minha jornada no desenvolvimento web e gosto de explorar novas 
 
 <td width="50%" valign="top">
 
-## 🌱 currently learning
+## 🌱 Atualmente aprendendo
 
 ```text
 ┌───────────────────────┐
 │                       │
-│   JavaScript   ◉     │
-│   React        ◉     │
-│   Node.js      ◉     │
-│   UI / UX      ◉     │
+│   JavaScript    ◉    │
+│   React         ◉    │
+│   Node.js       ◉    │
+│   UI / UX       ◉    │
 │                       │
 └───────────────────────┘
 ```
@@ -123,21 +125,21 @@ Estou focada em melhorar minha base e transformar o que aprendo em projetos reai
 
 <td width="50%" valign="top">
 
-## 🎯 next steps
+## 🎯 Próximos passos
 
 ```text
 ┌───────────────────────┐
 │                       │
-│   ◇ primeiro projeto  │
-│   ◇ portfólio         │
-│   ◇ projetos pessoais │
-│   ◇ estágio            │
-│   ◇ evoluir sempre    │
+│   ◇ Primeiro projeto  │
+│   ◇ Portfólio         │
+│   ◇ Projetos pessoais │
+│   ◇ Estágio           │
+│   ◇ Evoluir sempre    │
 │                       │
 └───────────────────────┘
 ```
 
-Meu objetivo é continuar aprendendo e construir cada vez mais coisas.
+Quero continuar aprendendo e construir cada vez mais coisas.
 
 </td>
 
@@ -150,12 +152,13 @@ Meu objetivo é continuar aprendendo e construir cada vez mais coisas.
 
 <div align="center">
 
-## 🤖 BEYOND CODE
+## 🤖 ALÉM DO CÓDIGO
 
 </div>
 
 <table align="center">
 <tr>
+
 <td align="center" width="30%">
 
 ### 🤖
@@ -179,18 +182,21 @@ Meu objetivo é continuar aprendendo e construir cada vez mais coisas.
 **Resolução de problemas**
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-Participei de uma **equipe de robótica**, experiência que me mostrou que tecnologia também envolve colaboração, criatividade e muita tentativa até fazer as coisas funcionarem.
+Também já fiz parte de uma **equipe de robótica**, uma experiência que me mostrou que tecnologia envolve muito mais do que programação.
+
+Aprendi sobre **trabalho em equipe, criatividade, colaboração e resolução de problemas** — coisas que continuo levando para minha jornada na tecnologia.
 
 ---
 
 <div align="center">
 
-## 🚀 PROJECTS
+## 🚀 MEUS PROJETOS
 
 <br>
 
@@ -198,11 +204,11 @@ Participei de uma **equipe de robótica**, experiência que me mostrou que tecno
 <tr>
 <td align="center" width="100%">
 
-### 🚧 coming soon...
+### 🚧 Em construção...
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ff8fc7?style=for-the-badge&labelColor=0d0b12"/>
+<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-ff8fc7?style=for-the-badge&labelColor=0d0b12"/>
 
 <br><br>
 
@@ -210,7 +216,7 @@ Participei de uma **equipe de robótica**, experiência que me mostrou que tecno
 
 <br>
 
-`first project loading... ♡`
+`primeiro projeto carregando... ♡`
 
 </td>
 </tr>
@@ -229,7 +235,7 @@ Participei de uma **equipe de robótica**, experiência que me mostrou que tecno
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY
+## 📊 MEU GITHUB
 
 <br>
 
@@ -251,7 +257,7 @@ Participei de uma **equipe de robótica**, experiência que me mostrou que tecno
 
 <div align="center">
 
-## ♡ LET'S CONNECT
+## 💌 VAMOS NOS CONECTAR?
 
 <br>
 
@@ -260,20 +266,20 @@ Participei de uma **equipe de robótica**, experiência que me mostrou que tecno
 </a>
 
 <!--
-Quando seu LinkedIn estiver pronto:
+Quando seu LinkedIn estiver pronto, coloque o link aqui:
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0d0b12?style=for-the-badge&logo=linkedin&logoColor=ff8fc7"/>
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0d0b12?style=for-the-badge&logo=linkedin&logoColor=ff8fc7"/>
 </a>
 -->
 
 <br><br>
 
-`✦ learning something new every day ✦`
+`✦ aprendendo algo novo todos os dias ✦`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=isaa000&style=flat-square&color=ff8fc7&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=isaa000&style=flat-square&color=ff8fc7&label=visitas+ao+perfil"/>
 
 </div>
 
@@ -284,3 +290,4 @@ Quando seu LinkedIn estiver pronto:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,20,24&section=footer"/>
 
 </div>
+
