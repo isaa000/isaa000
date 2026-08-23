@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=Isabelly&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20desenvolvimento%20web%20✦&descAlignY=62&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=ISABELLY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20web%20developer%20in%20progress%20✦&descAlignY=62&descSize=17"/>
 
 <br>
 
-### ♡ oi, eu sou a Isabelly!
+### ♡ hi, I'm Isabelly!
+
+**18 years old • Internet Technology student • web developer in progress**
 
 <br>
 
-`criando • aprendendo • evoluindo`
+`creating • learning • evolving`
 
 </div>
 
@@ -45,35 +47,64 @@
 
 <td align="center" width="50%">
 
+### 🎀 about me
 
+18 years old
+Web development
 
-<div align="center">
+</td>
 
-`## 💗 projetos`
+<td align="center" width="50%">
+
+### 🤖 beyond code
+
+I've been part of a
+**robotics team**.
 
 <br>
 
-`**em breve...**`
+✦ 
 
-<br>
+</td>
 
-`♡ meus primeiros projetos estão chegando ♡`
-
-<br>
-
-`<img src="https://img.shields.io/badge/EM%20CONSTRUÇÃO-FFB6C1?style=for-the-badge&labelColor=0D0D0D&logoColor=0D0D0D"/>`
-
-</div>
+</tr>
+</table>
 
 <br>
 
 ---
 
+<!--
+
 <div align="center">
 
-`## ✦ github`
+## 💗 projects
 
-<br>`
+<br>
+
+**coming soon...**
+
+<br>
+
+`♡ my first projects are on the way ♡`
+
+<br>
+
+<img src="https://img.shields.io/badge/UNDER%20CONSTRUCTION-FFB6C1?style=for-the-badge&labelColor=0D0D0D"/>
+
+</div>
+
+<br>
+
+-->
+
+---
+
+<div align="center">
+
+## ✦ github
+
+<br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaa000&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF"/>
 
@@ -87,7 +118,7 @@
 
 ### ♡
 
-`sempre aprendendo alguma coisa nova`
+✦ always learning ✦
 
 <br>
 
