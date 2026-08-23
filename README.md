@@ -32,41 +32,6 @@
 
 <br><br>
 
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-### 🎀 about me
-
-<br>
-
-**18 years old**
-**Web development**
-
-<br>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 beyond code
-
-<br>
-
-I've been part of a
-
-**robotics team**
-
-<br>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
 
 <div align="center">
 
