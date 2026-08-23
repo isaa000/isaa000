@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=ISABELLY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20desenvolvimento%20web%20✦&descAlignY=62&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:24121A,75:DB7093,100:FFB6C1&text=Isabelly&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=✦%20desenvolvimento%20web%20✦&descAlignY=62&descSize=17"/>
 
 <br>
 
 ### ♡ oi, eu sou a Isabelly!
-
-**18 anos • Tecnologia para Internet • desenvolvedora em formação**
 
 <br>
 
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-## 🌸 tecnologias
+## 🌸 technologies
 
 <br>
 
@@ -47,46 +45,15 @@
 
 <td align="center" width="50%">
 
-### 🎀 um pouco sobre mim
 
-18 anos
-Tecnologia para Internet
-Desenvolvimento Web
-
-<br>
-
-♡ explorando novas tecnologias
-
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 além do código
-
-Já participei de uma **equipe de robótica**.
-
-<br>
-
-✦ trabalho em equipe
-✦ criatividade
-✦ tecnologia
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
 
 <div align="center">
 
-## 💗 projetos
+`## 💗 projetos`
 
 <br>
 
-**em breve...**
+`**em breve...**`
 
 <br>
 
@@ -94,7 +61,7 @@ Já participei de uma **equipe de robótica**.
 
 <br>
 
-<img src="https://img.shields.io/badge/EM%20CONSTRUÇÃO-FFB6C1?style=for-the-badge&labelColor=0D0D0D&logoColor=0D0D0D"/>
+`<img src="https://img.shields.io/badge/EM%20CONSTRUÇÃO-FFB6C1?style=for-the-badge&labelColor=0D0D0D&logoColor=0D0D0D"/>`
 
 </div>
 
@@ -104,9 +71,9 @@ Já participei de uma **equipe de robótica**.
 
 <div align="center">
 
-## ✦ github
+`## ✦ github`
 
-<br>
+<br>`
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaa000&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFB6C1&icon_color=FF69B4&text_color=FFFFFF"/>
 
