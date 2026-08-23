@@ -8,8 +8,6 @@
 
 <br>
 
-`creating • learning • evolving`
-
 </div>
 
 ---
@@ -19,8 +17,6 @@
 ## 🌸 technologies
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma&theme=dark" />
 
 <br><br>
 
