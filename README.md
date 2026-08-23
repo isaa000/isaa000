@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20,24&text=Isabelly&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20web%20em%20forma%C3%A7%C3%A3o%20%E2%9C%A6&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,20,24&text=ISABELLY&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20web%20em%20forma%C3%A7%C3%A3o%20%E2%9C%A6&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF8FC7&center=true&vCenter=true&width=650&lines=oi%2C+eu+sou+a+Isabelly+%E2%99%A1;estudante+de+Tecnologia+para+Internet+%F0%9F%92%BB;aprendendo+%E2%80%A2+criando+%E2%80%A2+evoluindo+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFB6C1&center=true&vCenter=true&width=650&lines=oi%2C+eu+sou+a+Isabelly+%E2%99%A1;estudante+de+Tecnologia+para+Internet+%F0%9F%92%BB;aprendendo+%E2%80%A2+criando+%E2%80%A2+evoluindo+%E2%9C%A8" />
 
 </div>
 
@@ -208,7 +208,7 @@ Aprendi sobre **trabalho em equipe, criatividade, colaboração e resolução de
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-ff8fc7?style=for-the-badge&labelColor=0d0b12"/>
+<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-FFB6C1?style=for-the-badge&labelColor=0d0b12"/>
 
 <br><br>
 
@@ -239,15 +239,15 @@ Aprendi sobre **trabalho em equipe, criatividade, colaboração e resolução de
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaa000&show_icons=true&hide_border=true&bg_color=0d0b12&title_color=ff8fc7&icon_color=c084fc&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=isaa000&show_icons=true&hide_border=true&bg_color=0d0b12&title_color=FFB6C1&icon_color=FFB6C1&text_color=ffffff&include_all_commits=true&count_private=true"/>
 
   
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaa000&layout=compact&hide_border=true&bg_color=0d0b12&title_color=ff8fc7&text_color=ffffff&langs_count=6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaa000&layout=compact&hide_border=true&bg_color=0d0b12&title_color=FFB6C1&text_color=ffffff&langs_count=6"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=isaa000&theme=dark&hide_border=true&background=0D0B12&ring=FF8FC7&fire=FF8FC7&currStreakLabel=FF8FC7&sideLabels=FFFFFF&dates=888888"/>
+<img src="https://streak-stats.demolab.com?user=isaa000&theme=dark&hide_border=true&background=0D0B12&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1&sideLabels=FFFFFF&dates=888888"/>
 
 </div>
 
@@ -262,14 +262,14 @@ Aprendi sobre **trabalho em equipe, criatividade, colaboração e resolução de
 <br>
 
 <a href="https://github.com/isaa000">
-<img src="https://img.shields.io/badge/GitHub-isaa000-0d0b12?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-isaa000-0d0b12?style=for-the-badge&logo=github&logoColor=FFB6C1"/>
 </a>
 
 <!--
-Quando seu LinkedIn estiver pronto, coloque o link aqui:
+Quando seu LinkedIn estiver pronto:
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0d0b12?style=for-the-badge&logo=linkedin&logoColor=ff8fc7"/>
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0d0b12?style=for-the-badge&logo=linkedin&logoColor=FFB6C1"/>
 </a>
 -->
 
@@ -279,7 +279,7 @@ Quando seu LinkedIn estiver pronto, coloque o link aqui:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=isaa000&style=flat-square&color=ff8fc7&label=visitas+ao+perfil"/>
+<img src="https://komarev.com/ghpvc/?username=isaa000&style=flat-square&color=FFB6C1&label=visitas+ao+perfil"/>
 
 </div>
 
@@ -290,4 +290,3 @@ Quando seu LinkedIn estiver pronto, coloque o link aqui:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,20,24&section=footer"/>
 
 </div>
-
