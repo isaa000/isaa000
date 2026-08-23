@@ -37,7 +37,7 @@
 ---
 
 <table align="center">
-<tr>
+
 
 <td align="center" width="50%">
 
@@ -63,7 +63,7 @@ I've been part of a
 
 </td>
 
-</tr>
+
 </table>
 
 <br>
