@@ -4,11 +4,11 @@
 
 <br>
 
-**web developer in progress**
-
 <br>
 
 </div>
+
+<br>
 
 ---
 
@@ -17,6 +17,8 @@
 ## 🌸 technologies
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,figma&theme=dark" />
 
 <br><br>
 
@@ -30,6 +32,8 @@
 
 </div>
 
+<br>
+
 ---
 
 <table align="center">
@@ -42,6 +46,9 @@
 18 years old
 Web development
 
+<br>
+
+
 </td>
 
 <td align="center" width="50%">
@@ -52,6 +59,7 @@ I've been part of a
 **robotics team**.
 
 <br>
+
 
 </td>
 
@@ -87,7 +95,6 @@ I've been part of a
 -->
 
 ---
-
 
 <br>
 
