@@ -67,15 +67,6 @@ I've been part of a
 
 <br><br>
 
-<div align="center">
-
-<br><br>
-
- ✦ always learning ✦
-
-</div>
-
-<br>
 
 <div align="center">
 
