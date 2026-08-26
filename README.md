@@ -8,7 +8,7 @@
 
 </div>
 
-<br> <br>
+<br><br>
 
 <div align="center">
 
@@ -38,13 +38,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DB7093,35:FFB6C1,65:FF8FAB,100:FF69B4&section=footer"/>
 
 </div>
-
-<!--
-
-## 🚀 projects
-
-This section is hidden until I have projects to showcase.
-
-When you're ready, remove this comment.
-
--->
